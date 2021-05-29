@@ -34,3 +34,8 @@ docker run -d -p 80:80 api
 * check everything is working fine or not
 * if everything is working build aCI pipeline (build, push)
 * if everything is working build a CD pipeline (deploy)
+
+## Resources regarding creating a multi-stage docker build
+* https://towardsdatascience.com/how-to-build-slim-docker-images-fast-ecc246d7f4a7
+* https://github.com/Shawe82/docker-tutorial
+
